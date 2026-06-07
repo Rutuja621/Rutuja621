@@ -41,8 +41,8 @@ I'm **Rutuja Misal**, a passionate **Java Developer** from India . I love buildi
 ```yaml
 name         : Rutuja Misal
 role         : Java Developer
-portfolio    : https://darling-raindrop-0523f3.netlify.app/
-linkedin     : https://www.linkedin.com/in/swamini-s-bhandare/
+portfolio    : 
+linkedin     : 
 
 stack:
   backend  : Java · Spring Boot · JSP · Servlets · Microservices
